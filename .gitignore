@@ -1,1 +1,6 @@
+# Don't add personal information
 app/config.yml
+
+# Don't add built question files
+questions/*
+!questions/.keep
