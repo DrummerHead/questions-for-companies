@@ -4,3 +4,7 @@ app/config.yml
 # Don't add built question files
 questions/*
 !questions/.keep
+
+# Don't save backed up previous config files
+app/config-backup/*
+!app/config-backup/.keep
