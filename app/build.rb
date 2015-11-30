@@ -17,7 +17,7 @@ def dash(string)
 end
 
 
-interpolated_text = File.open(data["template_path"], "rb", encoding: 'UTF-8').read.each_line.map do |line|
+interpolated_text = File.open(data['template_path'], 'rb', encoding: 'UTF-8').read.each_line.map do |line|
   line.gsub(/{{([^}]*)}}/) do
     path_array = $1.split('.')
     get_recursive_data data, path_array
