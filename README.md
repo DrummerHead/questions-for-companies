@@ -9,7 +9,7 @@ The questions aim to be general (for now geared towards developers) and standard
 
 ## Building the questions
 
-1. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and `[git clone](https://help.github.com/articles/cloning-a-repository/)` the fork to your machine.
+1. [Fork](https://help.github.com/articles/fork-a-repo/) this repo and [`git clone`](https://help.github.com/articles/cloning-a-repository/) the fork to your machine.
 
 2. Copy `./app/config.example.yml` to `./app/config.yml` and edit the new file with your personal data, data of the company and person that got in touch with you & date. Don't delete `./app/config.example.yml`.
 
