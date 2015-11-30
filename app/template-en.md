@@ -1,1 +1,0 @@
-Hello {{contact.name}}!
