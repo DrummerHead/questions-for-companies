@@ -1,0 +1,17 @@
+template_path: templates/template-en.md
+file_metadata:
+  extension: txt
+date: 2015-11-30
+me:
+  name: John
+  surname: Doe
+  role: Front–End Developer
+  email: johndoe@example.com
+  url: http://example.com/
+company:
+  name: Awesome Corp
+  url: http://awesomecorp.io/
+contact:
+  name: Jane
+  surname: Roe
+  email: janeroe@example.com
